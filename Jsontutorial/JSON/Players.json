@@ -1,0 +1,16 @@
+{"Team":"CSK",
+ "Location":"Chennai",
+ "Players":[
+{"name":"Faf du Plesis","Country":"South Africa","Role":"Batsman"},
+{"name":"Rituraj","Country":"India","Role":"Batsman"},
+{"name":"Raina","Country":"India","Role":"Batsman"},
+{"name":"Raydu","Country":"India","Role":"Batsman"},
+{"name":"MSD","Country":"India","Role":"WK"},
+{"name":"Jadeja","Country":"India","Role":"Batsman"},
+{"name":"D J Bravo","Country":"West Indies","Role":"All rounder"},
+{"name":"Moen Ali","Country":"England","Role":"All rounder"},
+{"name":"Mike Hussey","Country":"Australia","Role":"Batsman"},
+{"name":"Morkel","Country":"South Africa","Role":"Batsman"},
+{"name":"S Thakur","Country":"India","Role":"Bowler"}
+]
+}

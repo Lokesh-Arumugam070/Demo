@@ -1,0 +1,15 @@
+[
+    {
+    "name": "Molecule Man",
+    "Age":"29",
+    "Id":"DanJukes",
+    "Powers":["Radation resistance","Turning tiny","Radiation blast"]
+    },
+    
+    {
+    "name": "Madam Uppercut",
+    "Age":"39",
+    "Id":"DanJukes",
+    "Powers":["Radation resistance","Damage resistance","Super human reflexes"]
+    }
+   ] 
