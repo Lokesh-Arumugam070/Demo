@@ -25,7 +25,7 @@ public class Amazoncart {
 		driver.findElement(By.linkText("Huawei Honor 6 Plus (32 GB, 3 GB RAM, Black) Without Offer")).click();
 		Set<String> windows =driver.getWindowHandles();//parentID,childId
 		Iterator<String>it=windows.iterator();
-		String parentId=it.next();//at first
+		//String parentId=it.next();//at first
 		String childId=it.next();//at second
 		driver.switchTo().window(childId);//switch to child window
 		driver.findElement(By.xpath("//span//input[@id='add-to-cart-button']")).click();
